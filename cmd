@@ -13,3 +13,4 @@ curl -SL -o update.sh https://github.com/tuongpham16/obcpx/releases/download/1/p
 
 curl -SL -o update.sh https://github.com/tuongpham16/obcpx/releases/download/1/px-arm-update-net6.sh && sudo bash update.sh
 
+curl -SL -o px-install.sh https://github.com/tuongpham16/obcpx/releases/download/1/px-install-u1804_20.sh && sudo chmod +x px-install.sh && bash px-install.sh
